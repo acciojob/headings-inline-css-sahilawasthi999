@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
-#{
-	Heading 1
-	color:#2a7ae2;
-	
+h1{
+	color: #2a7ae2;
+}
+h2{
+	color: #f44336;
 }
